@@ -1,0 +1,601 @@
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 8
+"GET / HTTP/1.1" 200 13
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+"GET /about/ HTTP/1.1" 200 27
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myproject\settings.py changed, reloading.
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+Index page accessed
+INFO 2024-03-31 17:57:34,103 autoreload 18916 4868 Watching for file changes with StatReloader
+INFO 2024-03-31 18:11:31,978 autoreload 18916 4868 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:11:33,484 autoreload 7436 37860 Watching for file changes with StatReloader
+INFO 2024-03-31 18:11:37,695 views 7436 35720 Index page accessed
+INFO 2024-03-31 18:11:37,701 basehttp 7436 35720 "GET / HTTP/1.1" 200 13
+INFO 2024-03-31 18:11:43,240 views 7436 35720 About page accessed
+INFO 2024-03-31 18:11:43,243 basehttp 7436 35720 "GET /about/ HTTP/1.1" 200 22
+INFO 2024-03-31 18:12:55,256 autoreload 7436 37860 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:12:56,575 autoreload 17160 9676 Watching for file changes with StatReloader
+INFO 2024-03-31 18:13:05,031 autoreload 17160 9676 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:13:07,175 autoreload 5796 20404 Watching for file changes with StatReloader
+INFO 2024-03-31 18:13:10,061 views 5796 48404 Index page accessed
+INFO 2024-03-31 18:13:10,066 basehttp 5796 48404 "GET / HTTP/1.1" 200 17
+INFO 2024-03-31 18:15:04,614 autoreload 5796 20404 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:15:06,452 autoreload 40048 45060 Watching for file changes with StatReloader
+INFO 2024-03-31 18:16:54,910 autoreload 40048 45060 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:16:59,440 autoreload 1628 14904 Watching for file changes with StatReloader
+INFO 2024-03-31 18:17:20,368 views 1628 11204 About page accessed
+INFO 2024-03-31 18:17:20,370 basehttp 1628 11204 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:17:26,095 views 1628 42272 Index page accessed
+INFO 2024-03-31 18:17:26,098 basehttp 1628 42272 "GET / HTTP/1.1" 200 237
+INFO 2024-03-31 18:18:30,886 autoreload 1628 14904 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:18:32,417 autoreload 27316 8236 Watching for file changes with StatReloader
+INFO 2024-03-31 18:18:36,950 views 27316 26764 Index page accessed
+INFO 2024-03-31 18:18:36,952 basehttp 27316 26764 "GET / HTTP/1.1" 200 279
+INFO 2024-03-31 18:18:38,591 views 27316 26764 About page accessed
+INFO 2024-03-31 18:18:38,592 basehttp 27316 26764 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:19:07,371 autoreload 27316 8236 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:19:08,844 autoreload 32912 14360 Watching for file changes with StatReloader
+INFO 2024-03-31 18:19:09,099 views 32912 13392 About page accessed
+INFO 2024-03-31 18:19:09,102 basehttp 32912 13392 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:19:10,888 views 32912 13392 Index page accessed
+INFO 2024-03-31 18:19:10,891 basehttp 32912 13392 "GET / HTTP/1.1" 200 290
+INFO 2024-03-31 18:19:14,830 views 32912 8136 About page accessed
+INFO 2024-03-31 18:19:14,834 basehttp 32912 8136 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:20:27,781 autoreload 32912 14360 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:20:29,009 autoreload 1464 35996 Watching for file changes with StatReloader
+INFO 2024-03-31 18:20:52,694 autoreload 1464 35996 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:20:53,828 autoreload 30252 16236 Watching for file changes with StatReloader
+INFO 2024-03-31 18:25:40,999 autoreload 30252 16236 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:25:42,882 autoreload 27244 41576 Watching for file changes with StatReloader
+INFO 2024-03-31 18:25:52,388 views 27244 40264 Index page accessed
+INFO 2024-03-31 18:25:52,392 basehttp 27244 40264 "GET / HTTP/1.1" 200 917
+INFO 2024-03-31 18:27:31,551 autoreload 27244 41576 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:27:33,529 autoreload 20540 39536 Watching for file changes with StatReloader
+INFO 2024-03-31 18:27:33,743 views 20540 47364 Index page accessed
+INFO 2024-03-31 18:27:33,745 basehttp 20540 47364 "GET / HTTP/1.1" 200 918
+INFO 2024-03-31 18:30:55,151 autoreload 20540 39536 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:30:59,132 autoreload 33728 41348 Watching for file changes with StatReloader
+INFO 2024-03-31 18:31:29,346 autoreload 33728 41348 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:31:30,960 autoreload 24876 31028 Watching for file changes with StatReloader
+INFO 2024-03-31 18:31:32,383 views 24876 39176 Index page accessed
+INFO 2024-03-31 18:31:32,384 basehttp 24876 39176 "GET / HTTP/1.1" 200 1038
+INFO 2024-03-31 18:32:51,932 autoreload 24876 31028 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:32:53,697 autoreload 8484 15476 Watching for file changes with StatReloader
+INFO 2024-03-31 18:33:08,249 autoreload 8484 15476 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:33:09,939 autoreload 25736 31160 Watching for file changes with StatReloader
+INFO 2024-03-31 18:33:10,375 views 25736 5592 Index page accessed
+INFO 2024-03-31 18:33:10,377 basehttp 25736 5592 "GET / HTTP/1.1" 200 1063
+INFO 2024-03-31 18:36:15,711 autoreload 25736 31160 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:36:16,974 autoreload 320 2776 Watching for file changes with StatReloader
+INFO 2024-03-31 18:36:17,336 views 320 40408 Index page accessed
+INFO 2024-03-31 18:36:17,338 basehttp 320 40408 "GET / HTTP/1.1" 200 1357
+INFO 2024-03-31 18:36:39,307 autoreload 320 2776 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:36:42,378 autoreload 18532 19408 Watching for file changes with StatReloader
+INFO 2024-03-31 18:37:00,559 autoreload 18532 19408 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:37:01,891 autoreload 17336 39488 Watching for file changes with StatReloader
+INFO 2024-03-31 18:37:22,811 autoreload 17336 39488 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:37:24,096 autoreload 25740 36412 Watching for file changes with StatReloader
+INFO 2024-03-31 18:37:25,677 views 25740 12012 Index page accessed
+INFO 2024-03-31 18:37:25,679 basehttp 25740 12012 "GET / HTTP/1.1" 200 1359
+INFO 2024-03-31 18:38:20,108 autoreload 25740 36412 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:38:21,206 autoreload 30984 39864 Watching for file changes with StatReloader
+INFO 2024-03-31 18:38:37,892 autoreload 30984 39864 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:38:39,564 autoreload 1692 30180 Watching for file changes with StatReloader
+INFO 2024-03-31 18:38:52,358 autoreload 1692 30180 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:38:53,577 autoreload 24640 25404 Watching for file changes with StatReloader
+INFO 2024-03-31 18:38:54,725 views 24640 19936 Index page accessed
+INFO 2024-03-31 18:38:54,727 basehttp 24640 19936 "GET / HTTP/1.1" 200 1242
+INFO 2024-03-31 18:39:21,598 views 24640 45576 Index page accessed
+INFO 2024-03-31 18:39:21,599 basehttp 24640 45576 "GET / HTTP/1.1" 200 1242
+INFO 2024-03-31 18:39:26,101 views 24640 45576 About page accessed
+INFO 2024-03-31 18:39:26,102 basehttp 24640 45576 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:39:39,919 views 24640 41064 About page accessed
+INFO 2024-03-31 18:39:39,922 basehttp 24640 41064 "GET /about/ HTTP/1.1" 200 211
+WARNING 2024-03-31 18:39:41,498 log 24640 41064 Not Found: /aboutр
+WARNING 2024-03-31 18:39:41,499 basehttp 24640 41064 "GET /about%D1%80 HTTP/1.1" 404 2433
+INFO 2024-03-31 18:39:51,505 views 24640 21296 Index page accessed
+INFO 2024-03-31 18:39:51,507 basehttp 24640 21296 "GET / HTTP/1.1" 200 1242
+INFO 2024-03-31 18:40:41,947 autoreload 24640 25404 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:40:43,982 autoreload 23172 21240 Watching for file changes with StatReloader
+INFO 2024-03-31 18:44:13,017 autoreload 23172 21240 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:44:14,764 autoreload 25364 14676 Watching for file changes with StatReloader
+INFO 2024-03-31 18:44:15,505 views 25364 35396 Index page accessed
+INFO 2024-03-31 18:44:15,509 basehttp 25364 35396 "GET / HTTP/1.1" 200 1256
+INFO 2024-03-31 18:44:17,029 views 25364 35396 About page accessed
+INFO 2024-03-31 18:44:17,030 basehttp 25364 35396 "GET /about/ HTTP/1.1" 200 224
+INFO 2024-03-31 18:44:38,172 autoreload 25364 14676 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:44:39,408 autoreload 22504 31728 Watching for file changes with StatReloader
+INFO 2024-03-31 18:44:39,703 views 22504 23348 About page accessed
+INFO 2024-03-31 18:44:39,705 basehttp 22504 23348 "GET /about/ HTTP/1.1" 200 211
+INFO 2024-03-31 18:45:09,821 autoreload 22504 31728 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:45:11,157 autoreload 26880 5772 Watching for file changes with StatReloader
+INFO 2024-03-31 18:45:43,553 autoreload 26880 5772 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:45:44,992 autoreload 37920 29372 Watching for file changes with StatReloader
+INFO 2024-03-31 18:46:44,547 autoreload 37920 29372 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:46:46,785 autoreload 21140 41056 Watching for file changes with StatReloader
+INFO 2024-03-31 18:46:47,172 views 21140 45384 About page accessed
+INFO 2024-03-31 18:46:47,175 basehttp 21140 45384 "GET /about/ HTTP/1.1" 200 280
+INFO 2024-03-31 18:47:07,986 autoreload 21140 41056 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-31 18:47:09,376 autoreload 48280 24056 Watching for file changes with StatReloader
+INFO 2024-03-31 18:47:09,668 views 48280 32328 About page accessed
+INFO 2024-03-31 18:47:09,669 basehttp 48280 32328 "GET /about/ HTTP/1.1" 200 276
+INFO 2024-03-31 18:48:44,318 views 48280 1708 Index page accessed
+INFO 2024-03-31 18:48:44,325 basehttp 48280 1708 "GET / HTTP/1.1" 200 1255
+INFO 2024-03-31 18:48:57,989 views 48280 39528 About page accessed
+INFO 2024-03-31 18:48:57,991 basehttp 48280 39528 "GET /about/ HTTP/1.1" 200 276
+INFO 2024-04-01 17:06:24,114 autoreload 48956 48952 Watching for file changes with StatReloader
+INFO 2024-04-01 17:06:26,415 views 48956 45716 Index page accessed
+INFO 2024-04-01 17:06:26,418 basehttp 48956 45716 "GET / HTTP/1.1" 200 1255
+WARNING 2024-04-01 17:06:28,836 log 48956 45716 Not Found: /favicon.ico
+WARNING 2024-04-01 17:06:28,839 basehttp 48956 45716 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-05 15:06:15,352 autoreload 20592 41252 Watching for file changes with StatReloader
+INFO 2024-04-05 15:06:21,424 views 20592 34860 Index page accessed
+INFO 2024-04-05 15:06:21,636 basehttp 20592 34860 "GET / HTTP/1.1" 200 900
+WARNING 2024-04-05 15:06:25,071 log 20592 34860 Not Found: /favicon.ico
+WARNING 2024-04-05 15:06:25,076 basehttp 20592 34860 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-05 15:06:34,602 basehttp 20592 6500 "GET /about HTTP/1.1" 301 0
+INFO 2024-04-05 15:06:34,619 views 20592 18648 About page accessed
+INFO 2024-04-05 15:06:34,624 basehttp 20592 18648 "GET /about/ HTTP/1.1" 200 235
+INFO 2024-04-05 15:11:04,527 autoreload 20592 41252 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:11:09,799 autoreload 2648 24560 Watching for file changes with StatReloader
+INFO 2024-04-05 15:12:03,067 autoreload 2648 24560 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:12:06,708 autoreload 17792 7920 Watching for file changes with StatReloader
+INFO 2024-04-05 15:13:03,953 autoreload 17792 7920 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:13:10,240 autoreload 3108 40932 Watching for file changes with StatReloader
+INFO 2024-04-05 15:13:26,087 autoreload 3108 40932 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:13:28,656 autoreload 39636 12060 Watching for file changes with StatReloader
+INFO 2024-04-05 15:15:01,395 autoreload 39636 12060 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:15:05,649 autoreload 20788 23612 Watching for file changes with StatReloader
+INFO 2024-04-05 15:18:48,775 autoreload 20788 23612 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:18:51,130 autoreload 24212 25424 Watching for file changes with StatReloader
+INFO 2024-04-05 15:19:47,097 autoreload 24212 25424 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:19:50,426 autoreload 28324 3892 Watching for file changes with StatReloader
+INFO 2024-04-05 15:21:35,208 autoreload 28324 3892 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:21:40,804 autoreload 36240 41044 Watching for file changes with StatReloader
+INFO 2024-04-05 15:28:04,787 autoreload 36240 41044 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:28:09,122 autoreload 49680 50872 Watching for file changes with StatReloader
+INFO 2024-04-05 15:28:17,928 basehttp 49680 2484 "GET /order HTTP/1.1" 301 0
+ERROR 2024-04-05 15:28:18,225 log 49680 22956 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in order
+    orders_last_7_days = Order.objects.filter(client=client, date_created__gte=current_date - timezone.timedelta(days=7)).order_by('-date_created')
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'client' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-04-05 15:28:18,243 basehttp 49680 22956 "GET /order/ HTTP/1.1" 500 114361
+ERROR 2024-04-05 15:30:34,732 log 49680 45916 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in order
+    orders_last_7_days = Order.objects.filter(user=user, date_created__gte=current_date - timezone.timedelta(days=7)).order_by('-date_created')
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'client' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-04-05 15:30:34,743 basehttp 49680 45916 "GET /order/ HTTP/1.1" 500 114480
+INFO 2024-04-05 15:30:35,281 autoreload 49680 50872 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:30:38,285 autoreload 41324 27956 Watching for file changes with StatReloader
+INFO 2024-04-05 15:30:44,323 views 41324 10016 Index page accessed
+INFO 2024-04-05 15:30:44,337 basehttp 41324 10016 "GET / HTTP/1.1" 200 900
+ERROR 2024-04-05 15:30:50,716 log 41324 27232 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in order
+    orders_last_7_days = Order.objects.filter(user=user, date_created__gte=current_date - timezone.timedelta(days=7)).order_by('-date_created')
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'date_created' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-04-05 15:30:50,725 basehttp 41324 27232 "GET /order/ HTTP/1.1" 500 114386
+INFO 2024-04-05 15:31:59,618 autoreload 41324 27956 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:32:05,644 autoreload 28624 53092 Watching for file changes with StatReloader
+ERROR 2024-04-05 15:32:46,417 log 28624 34340 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in order
+    orders_last_7_days = Order.objects.filter(user=user, date_ordered=current_date - timezone.timedelta(days=7)).order_by('-date_ordered')
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-04-05 15:32:46,428 basehttp 28624 34340 "GET /order/ HTTP/1.1" 500 115065
+ERROR 2024-04-05 15:33:35,333 log 28624 43184 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in order
+    orders_last_7_days = Order.objects.filter(customer=user, date_ordered=current_date - timezone.timedelta(days=7)).order_by('-date_ordered')
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-04-05 15:33:35,339 basehttp 28624 43184 "GET /order/ HTTP/1.1" 500 115081
+INFO 2024-04-05 15:33:35,729 autoreload 28624 53092 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:33:38,684 autoreload 38748 55624 Watching for file changes with StatReloader
+ERROR 2024-04-05 15:33:41,354 log 38748 52216 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'SimpleLazyObject'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in order
+    orders_last_7_days = Order.objects.filter(customer=user, date_ordered=current_date - timezone.timedelta(days=7)).order_by('-date_ordered')
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000021ACDEEB910>>.
+ERROR 2024-04-05 15:33:41,373 basehttp 38748 52216 "GET /order/ HTTP/1.1" 500 129632
+ERROR 2024-04-05 15:33:56,686 log 38748 1320 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2117, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'SimpleLazyObject'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 25, in order
+    orders_last_7_days = Order.objects.filter(customer=user, date_ordered=current_date - timezone.timedelta(days=7)).order_by('-date_ordered')
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1559, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1389, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\lookups.py", line 30, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 156, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2119, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000021ACDF66830>>.
+ERROR 2024-04-05 15:33:56,700 basehttp 38748 1320 "GET /order/ HTTP/1.1" 500 129636
+INFO 2024-04-05 15:33:57,243 autoreload 38748 55624 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:33:58,703 autoreload 32504 20792 Watching for file changes with StatReloader
+ERROR 2024-04-05 15:34:37,487 log 32504 5320 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 22, in order
+    customer = request.customer
+AttributeError: 'WSGIRequest' object has no attribute 'customer'
+ERROR 2024-04-05 15:34:37,493 basehttp 32504 5320 "GET /order/ HTTP/1.1" 500 67540
+INFO 2024-04-05 15:34:39,342 autoreload 32504 20792 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:34:41,243 autoreload 44964 49672 Watching for file changes with StatReloader
+INFO 2024-04-05 15:35:27,443 autoreload 44964 49672 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:35:29,507 autoreload 16280 18808 Watching for file changes with StatReloader
+ERROR 2024-04-05 15:35:30,699 log 16280 17048 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 22, in order
+    user = request.customer
+AttributeError: 'WSGIRequest' object has no attribute 'customer'
+ERROR 2024-04-05 15:35:30,704 basehttp 16280 17048 "GET /order/ HTTP/1.1" 500 67524
+INFO 2024-04-05 15:38:18,753 autoreload 16280 18808 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:38:20,528 autoreload 53520 47788 Watching for file changes with StatReloader
+ERROR 2024-04-05 15:38:32,821 log 53520 21520 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 21, in order
+    user = request.customer
+AttributeError: 'WSGIRequest' object has no attribute 'customer'
+ERROR 2024-04-05 15:38:32,826 basehttp 53520 21520 "GET /order/ HTTP/1.1" 500 67528
+INFO 2024-04-05 15:41:05,533 autoreload 53520 47788 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:41:07,574 autoreload 21724 8892 Watching for file changes with StatReloader
+INFO 2024-04-05 15:41:43,914 autoreload 21724 8892 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:41:46,315 autoreload 45544 31120 Watching for file changes with StatReloader
+INFO 2024-04-05 15:42:54,812 autoreload 45544 31120 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:42:57,117 autoreload 55408 43956 Watching for file changes with StatReloader
+INFO 2024-04-05 15:43:31,678 autoreload 55408 43956 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:43:33,320 autoreload 53192 50920 Watching for file changes with StatReloader
+INFO 2024-04-05 15:45:05,642 autoreload 53192 50920 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:45:06,954 autoreload 17156 19184 Watching for file changes with StatReloader
+INFO 2024-04-05 15:45:28,719 autoreload 17156 19184 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:45:31,299 autoreload 18160 22600 Watching for file changes with StatReloader
+ERROR 2024-04-05 15:45:33,818 log 18160 55692 Internal Server Error: /order/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: order() missing 1 required positional argument: 'customer_id'
+ERROR 2024-04-05 15:45:33,822 basehttp 18160 55692 "GET /order/ HTTP/1.1" 500 63293
+WARNING 2024-04-05 15:47:00,628 log 18160 22064 Not Found: /order/1
+WARNING 2024-04-05 15:47:00,631 basehttp 18160 22064 "GET /order/1 HTTP/1.1" 404 2596
+INFO 2024-04-05 15:48:13,340 autoreload 18160 22600 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\urls.py changed, reloading.
+INFO 2024-04-05 15:48:14,825 autoreload 48292 23196 Watching for file changes with StatReloader
+INFO 2024-04-05 15:48:33,042 autoreload 48292 23196 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\urls.py changed, reloading.
+INFO 2024-04-05 15:48:34,898 autoreload 21468 25324 Watching for file changes with StatReloader
+WARNING 2024-04-05 15:48:35,345 log 21468 48264 Not Found: /order/
+WARNING 2024-04-05 15:48:35,347 basehttp 21468 48264 "GET /order/ HTTP/1.1" 404 2617
+INFO 2024-04-05 15:48:38,735 basehttp 21468 38804 "GET /order/1 HTTP/1.1" 301 0
+ERROR 2024-04-05 15:48:38,825 log 21468 39640 Internal Server Error: /order/1/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 19, in order
+    customer = get_object_or_404(User, pk=customer_id)
+NameError: name 'get_object_or_404' is not defined
+ERROR 2024-04-05 15:48:38,828 basehttp 21468 39640 "GET /order/1/ HTTP/1.1" 500 66967
+INFO 2024-04-05 15:49:13,709 autoreload 21468 25324 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:49:16,556 autoreload 13392 21148 Watching for file changes with StatReloader
+INFO 2024-04-05 15:49:17,200 basehttp 13392 44468 "GET /order/1/ HTTP/1.1" 200 1244
+INFO 2024-04-05 15:49:25,331 basehttp 13392 44468 "GET /order/4/ HTTP/1.1" 200 195
+INFO 2024-04-05 15:49:28,529 basehttp 13392 14644 "GET /order/8/ HTTP/1.1" 200 1872
+INFO 2024-04-05 15:55:16,088 autoreload 13392 21148 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:55:19,826 autoreload 47872 29376 Watching for file changes with StatReloader
+INFO 2024-04-05 15:56:46,416 autoreload 47872 29376 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:56:48,154 autoreload 55232 15916 Watching for file changes with StatReloader
+INFO 2024-04-05 15:58:34,101 autoreload 55232 15916 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\urls.py changed, reloading.
+INFO 2024-04-05 15:58:35,523 autoreload 12060 55460 Watching for file changes with StatReloader
+INFO 2024-04-05 15:58:51,772 basehttp 12060 7360 "GET /double/1/1 HTTP/1.1" 301 0
+ERROR 2024-04-05 15:58:51,901 log 12060 45152 Internal Server Error: /double/1/1/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 34, in double
+    orders = Order.objects.filter(customer=customer, time_stamp_on_create__gt=now() - timedelta(days=int(k)))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'time_stamp_on_create' into field. Choices are: customer, customer_id, date_ordered, id, products, total_price
+ERROR 2024-04-05 15:58:51,911 basehttp 12060 45152 "GET /double/1/1/ HTTP/1.1" 500 115361
+INFO 2024-04-05 15:59:25,869 autoreload 12060 55460 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:59:28,909 autoreload 9516 27484 Watching for file changes with StatReloader
+ERROR 2024-04-05 15:59:29,371 log 9516 33336 Internal Server Error: /double/1/1/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py", line 40, in double
+    return render(request, 'myapp/double', context)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/double
+ERROR 2024-04-05 15:59:29,379 basehttp 9516 33336 "GET /double/1/1/ HTTP/1.1" 500 83266
+INFO 2024-04-05 15:59:49,579 autoreload 9516 27484 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-05 15:59:51,154 autoreload 18516 16596 Watching for file changes with StatReloader
+INFO 2024-04-05 15:59:51,544 basehttp 18516 19532 "GET /double/1/1/ HTTP/1.1" 200 580
+INFO 2024-04-05 16:00:11,048 basehttp 18516 55096 "GET /double/1/7/ HTTP/1.1" 200 1347
+INFO 2024-04-05 16:00:22,160 basehttp 18516 22620 "GET /double/1/30/ HTTP/1.1" 200 1347
+INFO 2024-04-05 16:00:28,837 basehttp 18516 56044 "GET /double/1/8/ HTTP/1.1" 200 580
+INFO 2024-04-05 16:00:44,961 basehttp 18516 3684 "GET /double/1/365/ HTTP/1.1" 200 1347
+INFO 2024-04-05 16:02:06,578 basehttp 18516 15168 "GET /double/1/30/ HTTP/1.1" 200 1347
+INFO 2024-04-05 16:02:10,951 basehttp 18516 13500 "GET /double/1/7/ HTTP/1.1" 200 1347
+INFO 2024-04-05 17:43:32,333 autoreload 16856 37932 Watching for file changes with StatReloader
+INFO 2024-04-05 17:43:37,382 views 16856 55408 Index page accessed
+INFO 2024-04-05 17:43:37,485 basehttp 16856 55408 "GET / HTTP/1.1" 200 900
+INFO 2024-04-05 17:43:47,669 views 16856 11760 About page accessed
+INFO 2024-04-05 17:43:47,677 basehttp 16856 11760 "GET /about/ HTTP/1.1" 200 235
+INFO 2024-04-05 17:44:04,141 basehttp 16856 23196 "GET /order/3 HTTP/1.1" 301 0
+INFO 2024-04-05 17:44:04,176 basehttp 16856 37024 "GET /order/3/ HTTP/1.1" 200 195
+INFO 2024-04-05 17:44:08,236 basehttp 16856 37024 "GET /order/2/ HTTP/1.1" 200 1033
+INFO 2024-04-06 14:12:21,629 autoreload 16576 41792 Watching for file changes with StatReloader
+INFO 2024-04-06 14:12:24,991 views 16576 49064 Index page accessed
+INFO 2024-04-06 14:12:25,024 basehttp 16576 49064 "GET / HTTP/1.1" 200 900
+WARNING 2024-04-06 14:12:26,344 log 16576 33224 Not Found: /favicon.ico
+WARNING 2024-04-06 14:12:26,348 basehttp 16576 33224 "GET /favicon.ico HTTP/1.1" 404 3065
+INFO 2024-04-06 14:12:44,635 basehttp 16576 39136 "GET /order/1/ HTTP/1.1" 200 1245
+INFO 2024-04-06 14:13:17,864 basehttp 16576 38208 "GET /order/2/ HTTP/1.1" 200 1245
+INFO 2024-04-06 14:13:21,829 basehttp 16576 38208 "GET /order/3/ HTTP/1.1" 200 1035
+INFO 2024-04-06 14:14:54,746 basehttp 16576 15580 "GET /order/1/ HTTP/1.1" 200 1245
+INFO 2024-04-06 15:21:25,570 autoreload 15076 6188 Watching for file changes with StatReloader
+INFO 2024-04-06 15:21:27,899 views 15076 50476 Index page accessed
+INFO 2024-04-06 15:21:27,941 basehttp 15076 50476 "GET / HTTP/1.1" 200 900
+INFO 2024-04-06 15:21:37,936 basehttp 15076 37444 "GET /order/1/ HTTP/1.1" 200 1244
+WARNING 2024-04-06 15:21:53,702 log 15076 21132 Not Found: /order/31/
+WARNING 2024-04-06 15:21:53,703 basehttp 15076 21132 "GET /order/31/ HTTP/1.1" 404 2993
+INFO 2024-04-06 15:21:59,547 basehttp 15076 21132 "GET /order/2/ HTTP/1.1" 200 1455
+INFO 2024-04-06 15:22:47,439 basehttp 15076 35160 "GET /order/3/ HTTP/1.1" 200 1034
+INFO 2024-04-06 15:22:55,137 basehttp 15076 13372 "GET /order/9/ HTTP/1.1" 200 195
+INFO 2024-04-06 15:22:59,438 basehttp 15076 13372 "GET /order/8/ HTTP/1.1" 200 824
+INFO 2024-04-06 15:24:31,600 basehttp 15076 38008 "GET /order/8/ HTTP/1.1" 200 862
+INFO 2024-04-06 15:24:57,987 basehttp 15076 12512 "GET /order/1/ HTTP/1.1" 200 1282
+INFO 2024-04-06 15:25:05,323 basehttp 15076 41912 "GET /order/9/ HTTP/1.1" 200 195
+INFO 2024-04-06 15:25:25,077 basehttp 15076 33332 "GET /order/9/ HTTP/1.1" 200 200
+INFO 2024-04-06 15:25:32,233 basehttp 15076 33332 "GET /order/9/ HTTP/1.1" 200 200
+INFO 2024-04-06 15:25:35,037 basehttp 15076 28352 "GET /order/8/ HTTP/1.1" 200 829
+INFO 2024-04-06 15:26:36,833 basehttp 15076 11484 "GET /double/1/7/ HTTP/1.1" 200 1347
+INFO 2024-04-06 15:26:48,306 basehttp 15076 29168 "GET /double/1/1/ HTTP/1.1" 200 580
+INFO 2024-04-06 15:26:55,790 basehttp 15076 23704 "GET /double/1/8/ HTTP/1.1" 200 580
+INFO 2024-04-06 15:26:59,531 basehttp 15076 23704 "GET /double/1/7/ HTTP/1.1" 200 1347
+INFO 2024-04-06 15:29:25,137 autoreload 15076 6188 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-06 15:29:27,518 autoreload 27744 49100 Watching for file changes with StatReloader
+INFO 2024-04-06 15:29:28,138 basehttp 27744 12008 "GET /double/1/7/ HTTP/1.1" 200 3165
+INFO 2024-04-06 15:29:37,457 basehttp 27744 26780 "GET /double/1/8/ HTTP/1.1" 200 1186
+INFO 2024-04-06 15:29:42,234 basehttp 27744 26780 "GET /double/1/10/ HTTP/1.1" 200 1187
+INFO 2024-04-06 15:29:46,389 basehttp 27744 39356 "GET /double/1/265/ HTTP/1.1" 200 1188
+INFO 2024-04-06 15:29:54,967 basehttp 27744 18056 "GET /double/2/265/ HTTP/1.1" 200 1390
+INFO 2024-04-06 15:30:52,331 autoreload 27744 49100 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-06 15:30:55,095 autoreload 7000 27216 Watching for file changes with StatReloader
+INFO 2024-04-06 15:30:56,303 basehttp 7000 47736 "GET /double/3/265/ HTTP/1.1" 200 986
+INFO 2024-04-06 15:32:10,321 autoreload 7000 27216 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Задания\homework_1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-06 15:32:11,558 autoreload 20408 16356 Watching for file changes with StatReloader
+INFO 2024-04-06 15:32:14,639 basehttp 20408 41696 "GET /double/3/365/ HTTP/1.1" 200 2559
+WARNING 2024-04-06 15:32:24,476 log 20408 45416 Not Found: /double/3/
+WARNING 2024-04-06 15:32:24,479 basehttp 20408 45416 "GET /double/3/ HTTP/1.1" 404 3059
+INFO 2024-04-06 15:32:28,342 basehttp 20408 45416 "GET /double/3/365/ HTTP/1.1" 200 2559
+INFO 2024-04-06 15:40:05,429 autoreload 11016 10856 Watching for file changes with StatReloader
+INFO 2024-04-06 15:40:07,036 views 11016 21484 Index page accessed
+INFO 2024-04-06 15:40:07,056 basehttp 11016 21484 "GET / HTTP/1.1" 200 900
+INFO 2024-04-06 15:40:09,892 basehttp 11016 52956 "GET /double/1/365/ HTTP/1.1" 200 3165
+INFO 2024-04-06 15:40:45,801 basehttp 11016 38944 "GET /order/1/ HTTP/1.1" 200 1878
+INFO 2024-04-06 15:40:58,566 basehttp 11016 51648 "GET /double/1/7/ HTTP/1.1" 200 3165
+INFO 2024-04-06 15:41:03,939 basehttp 11016 41940 "GET /double/1/8/ HTTP/1.1" 200 1186
